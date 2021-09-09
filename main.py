@@ -1,5 +1,7 @@
 print("Simple Calculator")
 
-number = input("Enter first number: ")
+number1 = input("Enter first number: ")
+number2 = input("Enter second number: ")
 
-print("You entered " + number)
+print("You entered " + number1)
+print("You entered " + number2)
